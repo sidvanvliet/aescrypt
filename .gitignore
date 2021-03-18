@@ -1,0 +1,4 @@
+*.key
+*.dat
+__pycache__
+.idea
